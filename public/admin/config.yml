@@ -15,6 +15,5 @@ collections:
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Slug", name: "slug", widget: "string" }
-      - { label: "Meta Description", name: "description", widget: "text" }
-      - { label: "Publish Date", name: "date", widget: "datetime" }
+      - { label: "Meta Description", name: "description", widget: "string" }
       - { label: "Body", name: "body", widget: "markdown" }
