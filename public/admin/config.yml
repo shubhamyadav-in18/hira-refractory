@@ -2,7 +2,8 @@ backend:
   name: github
   repo: shubhamyadav-in18/hira-refractory
   branch: main
-  Site ID: e51e9d14-c9cd-4e93-8338-e567cf7e8f10
+
+site_url: https://shubhsm.netlify.app
 
 media_folder: "public/images/uploads"
 public_folder: "/images/uploads"
